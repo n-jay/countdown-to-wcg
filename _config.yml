@@ -1,0 +1,38 @@
+# Site settings
+# title: Countdown to WCG
+# email: youremailaddress@gmail.com
+# description: A subtle reminder of the time we have left before the big day, <br/> and what remains to be done in preparation.
+# baseurl: "/dimension-jekyll-theme" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site
+# author:
+# street_address: 1234 Somewhere Road
+# city: Nashville
+# state: TN
+# zip_code: 55555
+# country: United States of America
+# phone: (716) 555-5555
+
+title: Countdown to WCG by Prestantia
+description: A subtle reminder of the time we have left before the big day, <br/> and what remains to be done in preparation.
+baseurl: "/countdown-to-wcg" # the subpath of your site, e.g. /blog
+remote_theme: pmarsceill/just-the-docs
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+icon: fa-music # Font Awesome class for your site's icon
+
+# Social settings
+facebook_url:
+github_url:
+googleplus_url: 
+instagram_url:
+linkedin_url: https://www.linkedin.com/in/nuwanjaya/
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/nuwnjay
+
+# Build settings
+markdown: kramdown
+
+sass:
+style: compressed
