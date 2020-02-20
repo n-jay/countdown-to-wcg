@@ -65,13 +65,13 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler (= 2.1.4)
+  bundler (= 2.0.2)
   dimension_jekyll_theme!
   jekyll (~> 4.0)
   rake
 
 RUBY VERSION
-   ruby 2.6.5p114
+   ruby 2.5.1p57
 
 BUNDLED WITH
-   2.1.4
+   2.0.2
